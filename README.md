@@ -1,1 +1,1 @@
-# Este contenido es relativo al curso de Desarrollador Full Stack dicatado por la UTN BA
+# El contenido de este repositorio corresponde a las clases de Desarrollador Full Stack dictado por UTN BA
